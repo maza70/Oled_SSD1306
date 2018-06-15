@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/oled/v15
+/oled/bin/Debug
+/oled/obj/Debug
+/packages/Mono.Posix-4.5.4.5.0/lib/net45
